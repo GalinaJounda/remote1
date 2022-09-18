@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿Работа с удаленными репозиториями
 
-namespace test2.remot1
-{
-    class remot1
-    {
-    }
-}
+1. Создать аккаунт на GitHub
+2. Создать локальный репозиторий
+3. Связать удаленный репозиторий с локальным
+ 
